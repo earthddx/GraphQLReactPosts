@@ -3,4 +3,4 @@
 
 graphql part @ https://react-graphql-posts.herokuapp.com/
 
-to be finished soon...
+styling will be done later.
